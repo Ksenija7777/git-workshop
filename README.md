@@ -4,5 +4,7 @@ This is my first git repository
 markdown language
 ### Section 3
 
-*kalka
+$x=10$ 
+
+% kalka
 *aklval
